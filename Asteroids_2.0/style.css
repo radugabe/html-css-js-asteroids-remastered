@@ -1,0 +1,61 @@
+#gameHeader {
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: Arial, sans-serif;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+#gameTitle {
+    position: absolute;
+    font-size: 200%;
+    top: 1%;
+    margin-left: 7%;
+}
+
+#gameStatus {
+    font-size: 260%;
+    margin: 0px;
+    flex: 1;
+    text-align: center;
+}
+
+#highScoresContainer {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-family: Arial, sans-serif;
+    width: 200px;
+}
+
+#highScoresList {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#highScoresList li {
+    margin: 5px 0;
+    font-size: 20px;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    background-image: url('stars.jpg');
+    flex-direction: column;
+}
+
+canvas {
+    border: 2px solid gray;
+    background: black;
+    display: block;
+    margin: 30px;
+}
