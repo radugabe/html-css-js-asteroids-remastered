@@ -1,5 +1,5 @@
 # Asteroids 2.0
-Proiectul presupune dezvoltarea unui joc similar cu clasicul Asteroids (mai multe detalii despre joc original: Asteroids) utilizând elemente grafice HTML5 precum <canvas> sau <svg>. Regulile implementate în acest joc respectă cerințele de mai jos, chiar dacă acestea diferă de regulile standard ale jocului original.
+Proiectul presupune dezvoltarea unui joc similar cu clasicul Asteroids (mai multe detalii despre joc original: Asteroids) utilizând elemente grafice HTML5. Regulile implementate în acest joc respectă cerințele de mai jos, chiar dacă acestea diferă de regulile standard ale jocului original.
 
 Funcționalități implementate
 1. Asteroizi
