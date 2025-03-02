@@ -1,4 +1,4 @@
-# 🚀 Asteroids 2.0
+# 🚀 Asteroids Remastered
 
 ## 📋 Descriere
 Proiectul presupune dezvoltarea unui joc similar cu clasicul Asteroids (mai multe detalii despre joc original: [Asteroids](https://en.wikipedia.org/wiki/Asteroids_(video_game))) utilizând elemente grafice HTML5. Regulile implementate în acest joc respectă cerințele de mai jos, chiar dacă acestea diferă de regulile standard ale jocului original.
